@@ -18,6 +18,7 @@ depth-aware distance cues in real time.
 - [Project Overview](#project-overview)
 - [System Overview](#system-overview)
 - [Key Components](#key-components)
+- [Data Source](#data-source)
 - [Demo](#demo)
 - [Learning Outcomes](#learning-outcomes)
 - [Limitations](#limitations)
@@ -31,7 +32,6 @@ The pipeline consists of the following stages:
 
 1. **Object Detection**
    - YOLOv8 is used to detect and localize objects in each video frame.
-
    - Custom object annotations were prepared using Roboflow for dataset management
      and labeling.
 
@@ -55,11 +55,20 @@ The pipeline consists of the following stages:
 
 ---
 
+## Data Source
+
+Training and evaluation data were derived from publicly available video content.
+A publicly accessible YouTube video was used to extract frames for experimental
+training and testing purposes.
+
+Source video (publicly available): https://www.youtube.com/watch?v=pm-XV0JkYU4
+
+---
+
 ## Demo
 
 A demo video illustrating real-time object-aware distance estimation is provided:
-
-- `car_output.mp4`  
+▶️ [Full demo video](car_output.mp4)  
 
 ---
 
@@ -88,7 +97,7 @@ Through this project, I gained hands-on experience in:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/MinhazAyon/vehicle-distance-estimation/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/MinhazAyon/car-distance-estimation/blob/main/LICENSE) file for details.
 
 ---
 
