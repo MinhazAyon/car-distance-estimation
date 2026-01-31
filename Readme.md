@@ -95,6 +95,14 @@ Through this project, I gained hands-on experience in:
 
 ---
 
+## Notes
+
+- This repository focuses on **inference and system integration**.
+- Training scripts and internal optimization code are not included.
+- The system is designed for real-time operation in unconstrained environments.
+
+- --
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/MinhazAyon/car-distance-estimation/blob/main/LICENSE) file for details.
