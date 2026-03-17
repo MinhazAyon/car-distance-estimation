@@ -68,7 +68,7 @@ Source video (publicly available): https://www.youtube.com/watch?v=pm-XV0JkYU4
 ## Demo
 
 A demo video illustrating real-time object-aware distance estimation is provided:
-▶️ [Full demo video](car_output.mp4)  
+▶️ [Full demo video](car_output.gif)  
 
 ---
 
